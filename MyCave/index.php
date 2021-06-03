@@ -1,6 +1,6 @@
 <?php
 
-include(__DIR__ . '/include/header.php');
+include('./include/header.php');
 
 echo '<div class="row row-cols-1 row-cols-md-4 g-8">';
 

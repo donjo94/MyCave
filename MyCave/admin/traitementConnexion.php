@@ -3,7 +3,7 @@ session_start();
 
 // Connection a la base de données
 try {
-    $bdd = new PDO('mysql:host=localhost;dbname=my_cave;charset=utf8', 'root', '');
+    $bdd = new PDO('mysql:host=sql11.freemysqlhosting.net;dbname=sql11416776;charset=utf8', 'sql11416776', 'V8Q9q7hy3b');
 } catch (Exception $e) {
     print_r($e->getMessage());
 }

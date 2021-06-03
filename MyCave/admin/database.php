@@ -3,10 +3,10 @@
 class Database
 {
 
-    private static $dbHost = "localhost";
-    private static $dbName = "my_cave";
-    private static $dbUser = "root";
-    private static $dbUserPassword = "";
+    private static $dbHost = "sql11.freemysqlhosting.net";
+    private static $dbName = "sql11416776";
+    private static $dbUser = "sql11416776";
+    private static $dbUserPassword = "V8Q9q7hy3b";
 
     private static $connection = null;
 
